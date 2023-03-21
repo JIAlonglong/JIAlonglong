@@ -17,7 +17,14 @@
 ![](https://activity-graph.herokuapp.com/graph?username=JIAlonglong&theme=github)
 
 
+![](https://stats.justsong.cn/api/csdn?id=JIAlonglong11&theme=dark)
+
+
+![](https://stats.justsong.cn/api/bilibili/?id=鸽子的小巢&theme=dark)
+
+
 ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
+
 
 <!--
 **JIAlonglong/JIAlonglong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
