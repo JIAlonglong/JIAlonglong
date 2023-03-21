@@ -6,13 +6,13 @@
 <a href="https://space.bilibili.com/87890857"><img src="https://img.shields.io/static/v1?label=Video&message=Bilibili&color=cyan" /></a>  
 </p>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JIAlonglong&theme=dark&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JIAlonglong&theme=dark&layout=compact&env=PAT_1)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=JIAlonglong&show_icons=true&theme=dark&count_private=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=JIAlonglong&show_icons=true&theme=dark&count_private=true&env=PAT_1)
 
 
-![](https://activity-graph.herokuapp.com/graph?username=JIAlonglong&theme=github)
+![Graph](https://activity-graph.herokuapp.com/graph?username=JIAlonglong&theme=github)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
