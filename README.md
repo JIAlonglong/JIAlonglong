@@ -1,8 +1,4 @@
 ### Hi there 👋 Welcome to JIAlonglong's Github Homepage!
-
-
-
-
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello github world!;Welcome Visitor!&font=Roboto" />
 
 
