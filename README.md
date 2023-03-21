@@ -1,6 +1,13 @@
 ### Hi there 👋 Welcome to JIAlonglong's Github Homepage!
 
+
+
+
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello github world!;Welcome Visitor!&font=Roboto" />
+
+
+
+
 
 <p>
 <img src="https://img.shields.io/static/v1?label=Program&message=Python&color=blue"/>>  
