@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Welcome to JIAlonglong's Github Homepage!
 
 <!--
 **JIAlonglong/JIAlonglong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p>
+<img src="https://img.shields.io/static/v1?label=Program&message=Python&color=blue"/>
+<a href="https://blog.csdn.net/weixin_63189332?type=blog"><img src="https://img.shields.io/static/v1?label=Blog&message=CSDN&color=red"/></a>
+</p>
+![](https://github-readme-stats.vercel.app/api?username=JIAlonglong&show_icons=true&theme=dark&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JIAlonglong&theme=dark&layout=compact)
+<img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/JIAlonglong&right_color=red" />
+![](https://activity-graph.herokuapp.com/graph?username=JIAlonglong&theme=github)
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome;Visitor!&font=Roboto" />
+
+
+
