@@ -2,7 +2,6 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20github%20world!;Welcome%20Visitor!&font=Roboto" />
 
 <p>
-<img src="https://img.shields.io/static/v1?label=Program&message=Python/c++/c&color=blue" />
 <a href="https://blog.csdn.net/weixin_63189332?type=blog"><img src="https://img.shields.io/static/v1?label=Blog&message=CSDN&color=red" /></a>
 <a href="https://space.bilibili.com/87890857"><img src="https://img.shields.io/static/v1?label=Video&message=Bilibili&color=cyan" /></a>  
 <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/JIAlonglong&right_color=red" />  
