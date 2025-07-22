@@ -25,11 +25,22 @@
 
 ---
 
-#### 🚀 What I Do  
-- 🔌 **Robotics Control Algorithms**：专注于运动控制、路径规划与轨迹优化  
-- 🤖 **Autonomous Systems**：研究机器人强化学习控制，机器人避障 
-- 💻 **Embedded Development**：机器人硬件驱动与嵌入式系统集成（ROS/ROS2 应用实践）  
-- 📊 **Simulation & Validation**：基于 Gazebo，Mujoco，isaaclab 等工具的算法仿真与实验验证  
+#### 🚀 What I Do / 我的研究方向  
+- 🔌 **Robotics Control Algorithms**  
+  机器人控制算法：专注于运动控制、路径规划与轨迹优化  
+  (Focus on motion control, path planning, and trajectory optimization)  
+
+- 🤖 **Autonomous Systems**  
+  自主系统：研究机器人强化学习控制与避障技术  
+  (Research on robot reinforcement learning control and obstacle avoidance)  
+
+- 💻 **Embedded Development**  
+  嵌入式开发：机器人硬件驱动与嵌入式系统集成（ROS/ROS2 应用实践）  
+  (Robot hardware driver & embedded system integration, with ROS/ROS2 application)  
+
+- 📊 **Simulation & Validation**  
+  仿真与验证：基于 Gazebo、Mujoco、IsaacLab 等工具的算法仿真与实验验证  
+  (Algorithm simulation and experimental validation using Gazebo, Mujoco, IsaacLab, etc.)   
 
 ---
 
