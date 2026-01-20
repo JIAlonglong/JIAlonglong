@@ -18,9 +18,9 @@
   <a href="https://space.bilibili.com/87890857" target="_blank">
     <img src="https://img.shields.io/badge/Bilibili-视频-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" />
   </a>
-  <a href="https://jialonglong.github.io/" target="_blank">
+  <!-- <a href="https://jialonglong.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/个人网站-Website-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Website" />
-  </a>
+  </a> -->
 </p>
 
 ---
