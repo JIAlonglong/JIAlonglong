@@ -23,18 +23,6 @@
 
 ---
 
-#### 🚀 Research Focus  
-- 🧠 **LLM/VLM-Driven Autonomous Agents**
-  Building general-purpose embodied agents with LLMs and VLMs at the core, enabling multi-modal perception, long-horizon decision-making and generalizable task planning.
-
-- 🔍 **LLM Alignment & Agent Policy Distillation**
-  Aligning LLMs with embodied tasks via instruction tuning, RLHF and CoT distillation, bridging natural language instructions to actionable agent outputs.
-
-- 💻 **Embedded & Simulation Validation**  
-  Robot hardware driver development, ROS/ROS2 system integration, and algorithm validation with Gazebo, MuJoCo, and IsaacLab
-
----
-
 #### 🛠️ Tech Stack  
 <p align="left">
   <!-- Large Models & Deep Learning -->
